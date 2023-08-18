@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Será necessário instalar os pacotes:
+
+- styled-components
+- react-router-dom
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
